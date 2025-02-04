@@ -33,4 +33,5 @@ type Game struct {
 	food     Point
 	gameOver bool
 	tick     int
+	score    int
 }

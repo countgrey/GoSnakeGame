@@ -4,6 +4,6 @@
     "GridSize": 20,
     "GameSpeed": 5,
     "StartSnakeLength": 3,
-    "GameOverOnBorderTouch",
-    "GameOverOnTailTouch"
+    "GameOverOnBorderTouch": true,
+    "GameOverOnTailTouch": true
 }
